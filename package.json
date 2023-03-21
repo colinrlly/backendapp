@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/colinrlly/backendapp/issues"
   },
-  "homepage": "https://github.com/colinrlly/backendapp#readme"
+  "homepage": "https://github.com/colinrlly/backendapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
